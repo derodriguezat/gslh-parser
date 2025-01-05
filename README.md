@@ -1,2 +1,2 @@
 # gslh-parser
-Google semantic location history parser.
+Parser for the google semantic location history.
